@@ -1,0 +1,1836 @@
+{
+  'items': [
+    {
+      'id': '90508198',
+      'premium': False,
+      'name': 'Начинающий специалист в аэропорт',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '88',
+        'name': 'Казань',
+        'url': 'https://api.hh.ru/areas/88'
+      },
+      'salary': {
+        'from': 200000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Лаишевский район',
+        'street': 'аэропорт Казань имени Габдуллы Тукая',
+        'building': None,
+        'lat': 55.608094,
+        'lng': 49.2986,
+        'description': None,
+        'raw': 'Лаишевский район, аэропорт Казань имени Габдуллы Тукая',
+        'metro': None,
+        'metro_stations': [],
+        'id': '14337697'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-07T20:47:04+0300',
+      'created_at': '2024-01-07T20:47:04+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=90508198',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/90508198?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/90508198',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Умеете вести диалог грамотно и доброжелательно, умеете убеждать. Нацелены на результат. У вас высокие коммуникативные навыки.',
+        'responsibility': 'Находить и привлекать потенциальных клиентов, предлагать им оформить кредитную карту S7. Консультировать клиентов по возникшим вопросам. Соблюдать инструкции и...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '70',
+          'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91322753',
+      'premium': False,
+      'name': 'Менеджер образовательных продуктов',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': None,
+        'street': None,
+        'building': None,
+        'lat': None,
+        'lng': None,
+        'description': None,
+        'raw': None,
+        'metro': {
+          'station_name': 'Водный стадион',
+          'line_name': 'Замоскворецкая',
+          'station_id': '2.29',
+          'line_id': '2',
+          'lat': 55.838978,
+          'lng': 37.487515
+        },
+        'metro_stations': [
+          {
+            'station_name': 'Водный стадион',
+            'line_name': 'Замоскворецкая',
+            'station_id': '2.29',
+            'line_id': '2',
+            'lat': 55.838978,
+            'lng': 37.487515
+          }
+        ],
+        'id': '643441'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-09T16:36:00+0300',
+      'created_at': '2024-01-09T16:36:00+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91322753',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91322753?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91322753',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт работы менеджером образовательных продуктов/проектов от 2 лет. Экспертиза в области корпоративного обучения. Экспертиза в soft skills. ',
+        'responsibility': 'Ведение образовательных проектов внутри компании: от снятия запроса до реализации и поддержки. Развитие действующих образовательных продуктов для cаппорт функций и...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '73',
+          'name': 'Менеджер продукта'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91153796',
+      'premium': False,
+      'name': 'Кредитный консультант в аэропорт',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1641',
+        'name': 'Набережные Челны',
+        'url': 'https://api.hh.ru/areas/1641'
+      },
+      'salary': {
+        'from': 200000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Лаишевский район',
+        'street': 'аэропорт Казань имени Габдуллы Тукая',
+        'building': None,
+        'lat': 55.608094,
+        'lng': 49.2986,
+        'description': None,
+        'raw': 'Лаишевский район, аэропорт Казань имени Габдуллы Тукая',
+        'metro': None,
+        'metro_stations': [],
+        'id': '14337697'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-07T19:00:23+0300',
+      'created_at': '2024-01-07T19:00:23+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91153796',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91153796?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91153796',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Умеете вести диалог грамотно и доброжелательно, умеете убеждать. Нацелены на результат. У вас высокие коммуникативные навыки.',
+        'responsibility': 'Находить и привлекать потенциальных клиентов, предлагать им оформить кредитную карту S7. Консультировать клиентов по возникшим вопросам. Соблюдать инструкции и...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '70',
+          'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91309292',
+      'premium': False,
+      'name': 'Chief Product Officer в Тинькофф Отели',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Москва',
+        'street': 'Головинское шоссе',
+        'building': '5А',
+        'lat': 55.839855,
+        'lng': 37.490263,
+        'description': None,
+        'raw': 'Москва, Головинское шоссе, 5А',
+        'metro': {
+          'station_name': 'Водный стадион',
+          'line_name': 'Замоскворецкая',
+          'station_id': '2.29',
+          'line_id': '2',
+          'lat': 55.838978,
+          'lng': 37.487515
+        },
+        'metro_stations': [
+          {
+            'station_name': 'Водный стадион',
+            'line_name': 'Замоскворецкая',
+            'station_id': '2.29',
+            'line_id': '2',
+            'lat': 55.838978,
+            'lng': 37.487515
+          }
+        ],
+        'id': '5146928'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-09T14:47:25+0300',
+      'created_at': '2024-01-09T14:47:25+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91309292',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91309292?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91309292',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'У вас есть опыт запуска крупных продуктов и опыт работы со сложными интеграциями. Знаете инструменты аналитики — Zeppelin, Amplitude, Catalyst. ',
+        'responsibility': 'Запускать новые направления в Отелях. Искать точки роста и проверять гипотезы по развитию бизнеса. Анализировать все эксперименты и нести ответственность...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '73',
+          'name': 'Менеджер продукта'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'moreThan6',
+        'name': 'Более 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91126782',
+      'premium': False,
+      'name': 'Оператор электронных заявок (удалённо)',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1703',
+        'name': 'Шахунья',
+        'url': 'https://api.hh.ru/areas/1703'
+      },
+      'salary': {
+        'from': 25000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-28T17:44:46+0300',
+      'created_at': '2023-12-28T17:44:46+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91126782',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91126782?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91126782',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Имеете образование от основного общего (9 классов). Знаете ПК на уровне уверенного пользователя. Любите спокойную и монотонную работу с данными. ',
+        'responsibility': 'Регистрировать документы в системах компании. Обрабатывать заявки на продукты Тинькофф и партнеров. Актуализировать информацию в системах.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '33',
+          'name': 'Делопроизводитель, архивариус'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91121955',
+      'premium': False,
+      'name': 'Оператор электронных заявок (удалённо)',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '3',
+        'name': 'Екатеринбург',
+        'url': 'https://api.hh.ru/areas/3'
+      },
+      'salary': {
+        'from': 25000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-28T15:13:26+0300',
+      'created_at': '2023-12-28T15:13:26+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91121955',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91121955?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91121955',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Имеете образование от основного общего (9 классов). Знаете ПК на уровне уверенного пользователя. Любите спокойную и монотонную работу с данными. ',
+        'responsibility': 'Регистрировать документы в системах компании. Обрабатывать заявки на продукты Тинькофф и партнеров. Актуализировать информацию в системах.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '33',
+          'name': 'Делопроизводитель, архивариус'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91127625',
+      'premium': False,
+      'name': 'Менеджер по мотивационным программам',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': {
+        'from': 130000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-09T18:35:39+0300',
+      'created_at': '2024-01-09T18:35:39+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91127625',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91127625?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91127625',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'У вас есть опыт работы на аналогичной должности от 1 года. Умеете работать с системами мотивации: создание, расчет, актуализация, внесение...',
+        'responsibility': 'Разрабатывать, внедрять и поддерживать мотивационные программы материального/нематериального стимулирования. Заниматься расчетом мотивационных программ и подводить итоги. Автоматизировать процессы расчета мотивационных...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '69',
+          'name': 'Менеджер по персоналу'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91320250',
+      'premium': False,
+      'name': 'Руководитель группы в Тинькофф Инвестиции Премиум',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '78',
+        'name': 'Самара',
+        'url': 'https://api.hh.ru/areas/78'
+      },
+      'salary': {
+        'from': 150000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-09T16:16:07+0300',
+      'created_at': '2024-01-09T16:16:07+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91320250',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91320250?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91320250',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'У вас есть опыт работы с премиальными клиентами от 1 года. У вас есть опыт управления командой от 4-х...',
+        'responsibility': 'Руководить командой из 4-5 специалистов: обучать, координировать, мотивировать, контролировать выполнение KPI. Заниматься привлечением и дальнейшим сопровождением крупных частных клиентов...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '70',
+          'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91153786',
+      'premium': False,
+      'name': 'Кредитный консультант в аэропорт',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1642',
+        'name': 'Нижнекамск',
+        'url': 'https://api.hh.ru/areas/1642'
+      },
+      'salary': {
+        'from': 200000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Лаишевский район',
+        'street': 'аэропорт Казань имени Габдуллы Тукая',
+        'building': None,
+        'lat': 55.608094,
+        'lng': 49.2986,
+        'description': None,
+        'raw': 'Лаишевский район, аэропорт Казань имени Габдуллы Тукая',
+        'metro': None,
+        'metro_stations': [],
+        'id': '14337697'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-07T18:59:46+0300',
+      'created_at': '2024-01-07T18:59:46+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91153786',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91153786?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91153786',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Умеете вести диалог грамотно и доброжелательно, умеете убеждать. Нацелены на результат. У вас высокие коммуникативные навыки.',
+        'responsibility': 'Находить и привлекать потенциальных клиентов, предлагать им оформить кредитную карту S7. Консультировать клиентов по возникшим вопросам. Соблюдать инструкции и...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '70',
+          'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91122963',
+      'premium': False,
+      'name': 'Оператор электронных заявок (удалённо)',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1357',
+        'name': 'Кумертау',
+        'url': 'https://api.hh.ru/areas/1357'
+      },
+      'salary': {
+        'from': 25000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-28T15:42:07+0300',
+      'created_at': '2023-12-28T15:42:07+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91122963',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91122963?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91122963',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Имеете образование от основного общего (9 классов). Знаете ПК на уровне уверенного пользователя. Любите спокойную и монотонную работу с данными. ',
+        'responsibility': 'Регистрировать документы в системах компании. Обрабатывать заявки на продукты Тинькофф и партнеров. Актуализировать информацию в системах.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'shift',
+        'name': 'Сменный график'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '33',
+          'name': 'Делопроизводитель, архивариус'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '90719590',
+      'premium': False,
+      'name': 'Гардеробщик',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': {
+        'from': 30000,
+        'to': 35000,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-15T10:13:44+0300',
+      'created_at': '2023-12-15T10:13:44+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=90719590',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/90719590?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/90719590',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Постоянное нахождение на рабочем месте. Вежливость, ответственность и внимательность. Опрятный внешний вид.',
+        'responsibility': 'Гардеробное обслуживание без уборки (без клининга, без мытья полов). Вежливое и оперативное обслуживание посетителей. Прием в гардероб на хранение предметов...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'shift',
+        'name': 'Сменный график'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': True,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91122378',
+      'premium': False,
+      'name': 'Оператор электронных заявок (удалённо)',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1277',
+        'name': 'Ирбит',
+        'url': 'https://api.hh.ru/areas/1277'
+      },
+      'salary': {
+        'from': 25000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-28T15:23:56+0300',
+      'created_at': '2023-12-28T15:23:56+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91122378',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91122378?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91122378',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Имеете образование от основного общего (9 классов). Знаете ПК на уровне уверенного пользователя. Любите спокойную и монотонную работу с данными. ',
+        'responsibility': 'Регистрировать документы в системах компании. Обрабатывать заявки на продукты Тинькофф и партнеров. Актуализировать информацию в системах.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'shift',
+        'name': 'Сменный график'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '33',
+          'name': 'Делопроизводитель, архивариус'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91126721',
+      'premium': False,
+      'name': 'Оператор электронных заявок (удалённо)',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1529',
+        'name': 'Фролово',
+        'url': 'https://api.hh.ru/areas/1529'
+      },
+      'salary': {
+        'from': 25000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-28T17:41:50+0300',
+      'created_at': '2023-12-28T17:41:50+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91126721',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91126721?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91126721',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Имеете образование от основного общего (9 классов). Знаете ПК на уровне уверенного пользователя. Любите спокойную и монотонную работу с данными. ',
+        'responsibility': 'Регистрировать документы в системах компании. Обрабатывать заявки на продукты Тинькофф и партнеров. Актуализировать информацию в системах.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '33',
+          'name': 'Делопроизводитель, архивариус'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91121864',
+      'premium': False,
+      'name': 'Дневной оператор электронных заявок (удалённо)',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '4571',
+        'name': 'Городище',
+        'url': 'https://api.hh.ru/areas/4571'
+      },
+      'salary': {
+        'from': 25000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-28T15:10:16+0300',
+      'created_at': '2023-12-28T15:10:16+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91121864',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91121864?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91121864',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Имеете образование от основного общего (9 классов). Знаете ПК на уровне уверенного пользователя. Любите спокойную и монотонную работу с данными. ',
+        'responsibility': 'Регистрировать документы в системах компании. Обрабатывать заявки на продукты Тинькофф и партнеров. Актуализировать информацию в системах.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '33',
+          'name': 'Делопроизводитель, архивариус'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '87154125',
+      'premium': False,
+      'name': 'Младший специалист Отдела кадрового делопроизводства',
+      'department': None,
+      'has_test': True,
+      'response_letter_required': False,
+      'area': {
+        'id': '2',
+        'name': 'Санкт-Петербург',
+        'url': 'https://api.hh.ru/areas/2'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Санкт-Петербург',
+        'street': 'Херсонская улица',
+        'building': '12-14',
+        'lat': 59.928654,
+        'lng': 30.381005,
+        'description': None,
+        'raw': 'Санкт-Петербург, Херсонская улица, 12-14',
+        'metro': None,
+        'metro_stations': [],
+        'id': '708176'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-09T10:20:11+0300',
+      'created_at': '2024-01-09T10:20:11+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=87154125',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/87154125?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/87154125',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Высшее образование. Уверенное знание трудового законодательства. Опыт работы в КДП не менее 1 года. Опыт работы в компании с численностью...',
+        'responsibility': 'Оформление приема, перевода, отпусков, командировок, увольнения работников в соответствии с ТК РФ. Формирование личных дел, ведение личных карточек работников. '
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '117',
+          'name': 'Специалист по кадрам'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91121761',
+      'premium': False,
+      'name': 'Оператор электронных заявок (удалённо)',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '26',
+        'name': 'Воронеж',
+        'url': 'https://api.hh.ru/areas/26'
+      },
+      'salary': {
+        'from': 25000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-28T15:06:27+0300',
+      'created_at': '2023-12-28T15:06:27+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91121761',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91121761?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91121761',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Имеете образование от основного общего (9 классов). Знаете ПК на уровне уверенного пользователя. Любите спокойную и монотонную работу с данными. ',
+        'responsibility': 'Регистрировать документы в системах компании. Обрабатывать заявки на продукты Тинькофф и партнеров. Актуализировать информацию в системах.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'shift',
+        'name': 'Сменный график'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '33',
+          'name': 'Делопроизводитель, архивариус'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91296223',
+      'premium': False,
+      'name': 'Бизнес-аналитик BI',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '41',
+        'name': 'Калининград',
+        'url': 'https://api.hh.ru/areas/41'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-09T13:05:05+0300',
+      'created_at': '2024-01-09T13:05:05+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91296223',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91296223?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91296223',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'У вас есть опыт работы аналитиком от 2 лет. Свободно владеете SQL. Умеете собирать требования с бизнеса и переводить их...',
+        'responsibility': 'Собирать бизнес-требования внутренних заказчиков. Искать данные, которые отвечают на вопросы, поставленные заказчиком. Формировать целевой прототип отчета. Визуализировать отчеты и...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '156',
+          'name': 'BI-аналитик, аналитик данных'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91126728',
+      'premium': False,
+      'name': 'Оператор электронных заявок (удалённо)',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1340',
+        'name': 'Чернушка',
+        'url': 'https://api.hh.ru/areas/1340'
+      },
+      'salary': {
+        'from': 25000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-28T17:42:09+0300',
+      'created_at': '2023-12-28T17:42:09+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91126728',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91126728?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91126728',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Имеете образование от основного общего (9 классов). Знаете ПК на уровне уверенного пользователя. Любите спокойную и монотонную работу с данными. ',
+        'responsibility': 'Регистрировать документы в системах компании. Обрабатывать заявки на продукты Тинькофф и партнеров. Актуализировать информацию в системах.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'shift',
+        'name': 'Сменный график'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '33',
+          'name': 'Делопроизводитель, архивариус'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91126514',
+      'premium': False,
+      'name': 'Оператор электронных заявок (удалённо)',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1527',
+        'name': 'Суровикино',
+        'url': 'https://api.hh.ru/areas/1527'
+      },
+      'salary': {
+        'from': 25000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-28T17:34:05+0300',
+      'created_at': '2023-12-28T17:34:05+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91126514',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/91126514?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91126514',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Имеете образование от основного общего (9 классов). Знаете ПК на уровне уверенного пользователя. Любите спокойную и монотонную работу с данными. ',
+        'responsibility': 'Регистрировать документы в системах компании. Обрабатывать заявки на продукты Тинькофф и партнеров. Актуализировать информацию в системах.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '33',
+          'name': 'Делопроизводитель, архивариус'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '87299189',
+      'premium': False,
+      'name': 'Специалист по бронированию авиабилетов',
+      'department': None,
+      'has_test': True,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': {
+        'from': None,
+        'to': 92000,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-07T17:03:38+0300',
+      'created_at': '2024-01-07T17:03:38+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=87299189',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': {
+        'id': '31964',
+        'url': 'https://hh.ru/interview/31964?employerId=78638'
+      },
+      'url': 'https://api.hh.ru/vacancies/87299189?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/87299189',
+      'relations': [],
+      'employer': {
+        'id': '78638',
+        'name': 'Тинькофф',
+        'url': 'https://api.hh.ru/employers/78638',
+        'alternate_url': 'https://hh.ru/employer/78638',
+        'logo_urls': {
+          '240': 'https://hhcdn.ru/employer-logo/3452962.png',
+          '90': 'https://hhcdn.ru/employer-logo/3452961.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/753000.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'У вас есть опыт работы с аналогичными обязанностями от 1 года. Знаете системы бронирования Амадеус или Сирена. У вас есть...',
+        'responsibility': 'Обрабатывать запросы клиентов по авиабилетам. Бронировать, обменивать, возвращать авиабилеты, оформлять доп. услуги в системах бронирования: Сирена, Амадеус. Помогать клиентам в...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '70',
+          'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    }
+  ],
+  'found': 11404,
+  'pages': 100,
+  'page': 0,
+  'per_page': 20,
+  'clusters': None,
+  'arguments': None,
+  'fixes': None,
+  'suggests': None,
+  'alternate_url': 'https://hh.ru/search/vacancy?employer_id=78638&enable_snippets=true'
+}
+
+
+
+
+
