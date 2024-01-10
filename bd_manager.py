@@ -12,15 +12,15 @@ class DBManager:
         hh_params['database'] = 'hh'
         conn = psycopg2.connect(**hh_params)
         conn.autocommit = True
-
-        with conn.cursor() as cur:
-            cur.execute('''SELECT Работодатель, COUNT(Название_вакансии) AS Всего_вакансий
-                        FROM employers 
-                        JOIN vacancies USING (Работодатель_id) 
-                        GROUP BY employers.Работодатель
-                        ''')
-            result = cur.fetchall()
-        conn.commit()
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute('''SELECT Работодатель, COUNT(Название_вакансии) AS Всего_вакансий
+                            FROM employers 
+                            JOIN vacancies USING (Работодатель_id) 
+                            GROUP BY employers.Работодатель
+                            ''')
+                result = cur.fetchall()
+            conn.commit()
         return result
 
 
@@ -31,13 +31,14 @@ class DBManager:
         hh_params['database'] = 'hh'
         conn = psycopg2.connect(**hh_params)
         conn.autocommit = True
-        with conn.cursor() as cur:
-            cur.execute('''SELECT employers.Работодатель, vacancies.Название_вакансии, 
-                        vacancies.Зарплата, Вакансия_url FROM employers 
-                        JOIN vacancies USING (Работодатель_id)
-                        ''')
-            result = cur.fetchall()
-        conn.commit()
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute('''SELECT employers.Работодатель, vacancies.Название_вакансии, 
+                            vacancies.Зарплата, Вакансия_url FROM employers 
+                            JOIN vacancies USING (Работодатель_id)
+                            ''')
+                result = cur.fetchall()
+            conn.commit()
         return result
 
 
@@ -47,11 +48,11 @@ class DBManager:
         hh_params['database'] = 'hh'
         conn = psycopg2.connect(**hh_params)
         conn.autocommit = True
-
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT AVG(Зарплата) as Всего_вакансий FROM vacancies ")
-            result = cur.fetchall()
-        conn.commit()
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute(f"SELECT AVG(Зарплата) as Всего_вакансий FROM vacancies ")
+                result = cur.fetchall()
+            conn.commit()
         return result
 
 
@@ -62,12 +63,12 @@ class DBManager:
         hh_params['database'] = 'hh'
         conn = psycopg2.connect(**hh_params)
         conn.autocommit = True
-
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT * FROM vacancies "
-                        f"WHERE Зарплата > (SELECT AVG(Зарплата) FROM vacancies) ")
-            result = cur.fetchall()
-        conn.commit()
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute(f"SELECT * FROM vacancies "
+                            f"WHERE Зарплата > (SELECT AVG(Зарплата) FROM vacancies) ")
+                result = cur.fetchall()
+            conn.commit()
         return result
 
 
@@ -78,11 +79,12 @@ class DBManager:
         hh_params['database'] = 'hh'
         conn = psycopg2.connect(**hh_params)
         conn.autocommit = True
-        with conn.cursor() as cur:
-            cur.execute(f"SELECT * FROM vacancies "
-                        f"WHERE lower(Название_вакансии) LIKE '%{keyword}%' "
-                        f"OR lower(Название_вакансии) LIKE '%{keyword}'"
-                        f"OR lower(Название_вакансии) LIKE '{keyword}%';")
-            result = cur.fetchall()
-        conn.commit()
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute(f"SELECT * FROM vacancies "
+                            f"WHERE lower(Название_вакансии) LIKE '%{keyword}%' "
+                            f"OR lower(Название_вакансии) LIKE '%{keyword}'"
+                            f"OR lower(Название_вакансии) LIKE '{keyword}%';")
+                result = cur.fetchall()
+            conn.commit()
         return result
