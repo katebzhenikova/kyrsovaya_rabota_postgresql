@@ -12,9 +12,9 @@ if __name__ == '__main__':
     get_vacancies(employer_ids)
     save_data_to_database('hh', employer_ids, params)
     db_manager = DBManager()
-    db_manager.get_companies_and_vacancies_count()
-    db_manager.get_all_vacancies()
-    db_manager.get_avg_salary()
-    db_manager.get_vacancies_with_keyword('python')
+    # db_manager.get_companies_and_vacancies_count()
+    # db_manager.get_all_vacancies()
+    # db_manager.get_avg_salary()
+    # db_manager.get_vacancies_with_keyword('python')
 
 
